@@ -37,6 +37,11 @@
       "remplace": [
         "autofarmclicker-1.8.9-1.0.0.jar"
       ]
+    },
+    {
+      "nom": "xNym Cosmetics (capes, bandanas, name tags)",
+      "fichier": "xnymcosmetics-forge-1.8.9-1.0.0.jar",
+      "url": "https://github.com/xNym-dev/xNym-cosmetics-/releases/download/derniere/xnymcosmetics-forge-1.8.9-1.0.0.jar"
     }
   ],
   "1.8.9-fabric": [
@@ -51,6 +56,11 @@
     {
       "modrinth": "legacy-mod-menu",
       "nom": "Legacy Mod Menu"
+    },
+    {
+      "nom": "xNym Cosmetics (capes, bandanas, name tags)",
+      "fichier": "xnymcosmetics-fabric-1.8.9-1.0.0.jar",
+      "url": "https://github.com/xNym-dev/xNym-cosmetics-/releases/download/derniere/xnymcosmetics-fabric-1.8.9-1.0.0.jar"
     }
   ],
   "1.19.4-forge": [
@@ -85,6 +95,11 @@
     {
       "modrinth": "inventoryhudplus",
       "nom": "InventoryHUD+ (inventaire à l'écran)"
+    },
+    {
+      "nom": "xNym Cosmetics (capes, bandanas, name tags)",
+      "fichier": "xnymcosmetics-forge-1.19.4-1.0.0.jar",
+      "url": "https://github.com/xNym-dev/xNym-cosmetics-/releases/download/derniere/xnymcosmetics-forge-1.19.4-1.0.0.jar"
     }
   ],
   "1.19.4-fabric": [
@@ -135,6 +150,11 @@
     {
       "modrinth": "auto-clicker",
       "nom": "Auto Clicker"
+    },
+    {
+      "nom": "xNym Cosmetics (capes, bandanas, name tags)",
+      "fichier": "xnymcosmetics-fabric-1.19.4-1.0.0.jar",
+      "url": "https://github.com/xNym-dev/xNym-cosmetics-/releases/download/derniere/xnymcosmetics-fabric-1.19.4-1.0.0.jar"
     }
   ],
   "1.21.4-forge": [
@@ -161,6 +181,11 @@
     {
       "modrinth": "inventoryhudplus",
       "nom": "InventoryHUD+ (inventaire à l'écran)"
+    },
+    {
+      "nom": "xNym Cosmetics (capes, bandanas, name tags)",
+      "fichier": "xnymcosmetics-forge-1.21.4-1.0.0.jar",
+      "url": "https://github.com/xNym-dev/xNym-cosmetics-/releases/download/derniere/xnymcosmetics-forge-1.21.4-1.0.0.jar"
     }
   ],
   "1.21.4-fabric": [
@@ -211,6 +236,11 @@
     {
       "modrinth": "auto-clicker",
       "nom": "Auto Clicker"
+    },
+    {
+      "nom": "xNym Cosmetics (capes, bandanas, name tags)",
+      "fichier": "xnymcosmetics-fabric-1.21.4-1.0.0.jar",
+      "url": "https://github.com/xNym-dev/xNym-cosmetics-/releases/download/derniere/xnymcosmetics-fabric-1.21.4-1.0.0.jar"
     }
   ],
   "1.21.8-forge": [
@@ -237,6 +267,11 @@
     {
       "modrinth": "inventoryhudplus",
       "nom": "InventoryHUD+ (inventaire à l'écran)"
+    },
+    {
+      "nom": "xNym Cosmetics (capes, bandanas, name tags)",
+      "fichier": "xnymcosmetics-forge-1.21.8-1.0.0.jar",
+      "url": "https://github.com/xNym-dev/xNym-cosmetics-/releases/download/derniere/xnymcosmetics-forge-1.21.8-1.0.0.jar"
     }
   ],
   "1.21.8-fabric": [
@@ -287,6 +322,11 @@
     {
       "modrinth": "auto-clicker",
       "nom": "Auto Clicker"
+    },
+    {
+      "nom": "xNym Cosmetics (capes, bandanas, name tags)",
+      "fichier": "xnymcosmetics-fabric-1.21.8-1.0.0.jar",
+      "url": "https://github.com/xNym-dev/xNym-cosmetics-/releases/download/derniere/xnymcosmetics-fabric-1.21.8-1.0.0.jar"
     }
   ]
 }

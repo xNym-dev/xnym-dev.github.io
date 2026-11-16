@@ -40,8 +40,8 @@
     },
     {
       "nom": "xNym Cosmetics (capes, bandanas, name tags)",
-      "fichier": "xnymcosmetics-forge-1.8.9-1.0.0.jar",
-      "url": "https://github.com/xNym-dev/xNym-cosmetics-/releases/download/derniere/xnymcosmetics-forge-1.8.9-1.0.0.jar"
+      "fichier": "xnymcosmetics-forge-1.8.9-1.1.0.jar",
+      "url": "https://github.com/xNym-dev/xNym-cosmetics-/releases/download/derniere/xnymcosmetics-forge-1.8.9-1.1.0.jar"
     }
   ],
   "1.8.9-fabric": [
@@ -59,8 +59,8 @@
     },
     {
       "nom": "xNym Cosmetics (capes, bandanas, name tags)",
-      "fichier": "xnymcosmetics-fabric-1.8.9-1.0.0.jar",
-      "url": "https://github.com/xNym-dev/xNym-cosmetics-/releases/download/derniere/xnymcosmetics-fabric-1.8.9-1.0.0.jar"
+      "fichier": "xnymcosmetics-fabric-1.8.9-1.1.0.jar",
+      "url": "https://github.com/xNym-dev/xNym-cosmetics-/releases/download/derniere/xnymcosmetics-fabric-1.8.9-1.1.0.jar"
     }
   ],
   "1.19.4-forge": [
@@ -98,8 +98,8 @@
     },
     {
       "nom": "xNym Cosmetics (capes, bandanas, name tags)",
-      "fichier": "xnymcosmetics-forge-1.19.4-1.0.0.jar",
-      "url": "https://github.com/xNym-dev/xNym-cosmetics-/releases/download/derniere/xnymcosmetics-forge-1.19.4-1.0.0.jar"
+      "fichier": "xnymcosmetics-forge-1.19.4-1.1.0.jar",
+      "url": "https://github.com/xNym-dev/xNym-cosmetics-/releases/download/derniere/xnymcosmetics-forge-1.19.4-1.1.0.jar"
     }
   ],
   "1.19.4-fabric": [
@@ -153,8 +153,8 @@
     },
     {
       "nom": "xNym Cosmetics (capes, bandanas, name tags)",
-      "fichier": "xnymcosmetics-fabric-1.19.4-1.0.0.jar",
-      "url": "https://github.com/xNym-dev/xNym-cosmetics-/releases/download/derniere/xnymcosmetics-fabric-1.19.4-1.0.0.jar"
+      "fichier": "xnymcosmetics-fabric-1.19.4-1.1.0.jar",
+      "url": "https://github.com/xNym-dev/xNym-cosmetics-/releases/download/derniere/xnymcosmetics-fabric-1.19.4-1.1.0.jar"
     }
   ],
   "1.21.4-forge": [
@@ -184,8 +184,8 @@
     },
     {
       "nom": "xNym Cosmetics (capes, bandanas, name tags)",
-      "fichier": "xnymcosmetics-forge-1.21.4-1.0.0.jar",
-      "url": "https://github.com/xNym-dev/xNym-cosmetics-/releases/download/derniere/xnymcosmetics-forge-1.21.4-1.0.0.jar"
+      "fichier": "xnymcosmetics-forge-1.21.4-1.1.0.jar",
+      "url": "https://github.com/xNym-dev/xNym-cosmetics-/releases/download/derniere/xnymcosmetics-forge-1.21.4-1.1.0.jar"
     }
   ],
   "1.21.4-fabric": [
@@ -239,8 +239,8 @@
     },
     {
       "nom": "xNym Cosmetics (capes, bandanas, name tags)",
-      "fichier": "xnymcosmetics-fabric-1.21.4-1.0.0.jar",
-      "url": "https://github.com/xNym-dev/xNym-cosmetics-/releases/download/derniere/xnymcosmetics-fabric-1.21.4-1.0.0.jar"
+      "fichier": "xnymcosmetics-fabric-1.21.4-1.1.0.jar",
+      "url": "https://github.com/xNym-dev/xNym-cosmetics-/releases/download/derniere/xnymcosmetics-fabric-1.21.4-1.1.0.jar"
     }
   ],
   "1.21.8-forge": [
@@ -270,8 +270,8 @@
     },
     {
       "nom": "xNym Cosmetics (capes, bandanas, name tags)",
-      "fichier": "xnymcosmetics-forge-1.21.8-1.0.0.jar",
-      "url": "https://github.com/xNym-dev/xNym-cosmetics-/releases/download/derniere/xnymcosmetics-forge-1.21.8-1.0.0.jar"
+      "fichier": "xnymcosmetics-forge-1.21.8-1.1.0.jar",
+      "url": "https://github.com/xNym-dev/xNym-cosmetics-/releases/download/derniere/xnymcosmetics-forge-1.21.8-1.1.0.jar"
     }
   ],
   "1.21.8-fabric": [
@@ -325,8 +325,8 @@
     },
     {
       "nom": "xNym Cosmetics (capes, bandanas, name tags)",
-      "fichier": "xnymcosmetics-fabric-1.21.8-1.0.0.jar",
-      "url": "https://github.com/xNym-dev/xNym-cosmetics-/releases/download/derniere/xnymcosmetics-fabric-1.21.8-1.0.0.jar"
+      "fichier": "xnymcosmetics-fabric-1.21.8-1.1.0.jar",
+      "url": "https://github.com/xNym-dev/xNym-cosmetics-/releases/download/derniere/xnymcosmetics-fabric-1.21.8-1.1.0.jar"
     }
   ]
 }

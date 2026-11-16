@@ -1,0 +1,292 @@
+{
+  "_aide": "Mods installés automatiquement par xNym's Client, par profil (version-chargeur). { \"modrinth\": \"nom-du-projet\" } = dernière version compatible sur modrinth.com (les dépendances obligatoires sont ajoutées toutes seules), ou { \"nom\": \"Mon mod\", \"fichier\": \"monmod-1.0.jar\", \"url\": \"https://...\", \"sha1\": \"(facultatif)\" }. Un mod peut aussi être fourni avec le launcher : mets le .jar dans le dossier mods-locaux et ajoute { \"fichier\": \"monmod.jar\", \"local\": true }. Avec \"optionnel\": true, il est installé désactivé et le joueur l'active lui-même dans l'onglet Mods.",
+  "1.8.9-forge": [
+    {
+      "modrinth": "evergreenhud",
+      "nom": "EvergreenHUD (FPS, CPS, keystrokes, armure…)"
+    },
+    {
+      "modrinth": "polysprint",
+      "nom": "PolySprint (toggle sprint / sneak)"
+    },
+    {
+      "modrinth": "autogg-reimagined",
+      "nom": "AutoGG"
+    },
+    {
+      "modrinth": "freelook-oneconfig",
+      "nom": "Freelook"
+    },
+    {
+      "modrinth": "hitbox",
+      "nom": "PolyHitbox"
+    },
+    {
+      "modrinth": "xaeros-minimap",
+      "nom": "Xaero's Minimap (waypoints + minimap)"
+    },
+    {
+      "modrinth": "inventoryhudplus",
+      "nom": "InventoryHUD+ (inventaire à l'écran)"
+    },
+    {
+      "nom": "xNym Client — autoclic + HUD (proposé, désactivé par défaut)",
+      "fichier": "xnymclient-1.8.9-2.4.0.jar",
+      "local": true,
+      "optionnel": true,
+      "remplace": [
+        "autofarmclicker-1.8.9-1.0.0.jar"
+      ]
+    }
+  ],
+  "1.8.9-fabric": [
+    {
+      "modrinth": "legacy-fabric-api",
+      "nom": "Legacy Fabric API"
+    },
+    {
+      "modrinth": "axolotlclient",
+      "nom": "AxolotlClient (HUD, zoom, freelook, keystrokes, AutoGG…)"
+    },
+    {
+      "modrinth": "legacy-mod-menu",
+      "nom": "Legacy Mod Menu"
+    }
+  ],
+  "1.19.4-forge": [
+    {
+      "modrinth": "modernfix",
+      "nom": "ModernFix (performances)"
+    },
+    {
+      "modrinth": "just-zoom",
+      "nom": "Just Zoom"
+    },
+    {
+      "modrinth": "toggle-sprint",
+      "nom": "Toggle Sprint"
+    },
+    {
+      "modrinth": "freelook-og",
+      "nom": "FreeLook"
+    },
+    {
+      "modrinth": "fps-monitor",
+      "nom": "FPS Monitor"
+    },
+    {
+      "modrinth": "fullb",
+      "nom": "Fullbright"
+    },
+    {
+      "modrinth": "xaeros-minimap",
+      "nom": "Xaero's Minimap (waypoints + minimap)"
+    },
+    {
+      "modrinth": "inventoryhudplus",
+      "nom": "InventoryHUD+ (inventaire à l'écran)"
+    }
+  ],
+  "1.19.4-fabric": [
+    {
+      "modrinth": "fabric-api",
+      "nom": "Fabric API"
+    },
+    {
+      "modrinth": "sodium",
+      "nom": "Sodium (performances)"
+    },
+    {
+      "modrinth": "modmenu",
+      "nom": "Mod Menu"
+    },
+    {
+      "modrinth": "zoomify",
+      "nom": "Zoomify"
+    },
+    {
+      "modrinth": "freelook",
+      "nom": "Freelook"
+    },
+    {
+      "modrinth": "toggle-sprint-display",
+      "nom": "Toggle Sprint"
+    },
+    {
+      "modrinth": "fpsdisplay",
+      "nom": "FPS Display"
+    },
+    {
+      "modrinth": "tiptapshow",
+      "nom": "TipTapShow (keystrokes)"
+    },
+    {
+      "modrinth": "gamma-utils",
+      "nom": "Gamma Utils (fullbright)"
+    },
+    {
+      "modrinth": "xaeros-minimap",
+      "nom": "Xaero's Minimap (waypoints + minimap)"
+    },
+    {
+      "modrinth": "inventoryhudplus",
+      "nom": "InventoryHUD+ (inventaire à l'écran)"
+    },
+    {
+      "modrinth": "auto-clicker",
+      "nom": "Auto Clicker"
+    }
+  ],
+  "1.21.4-forge": [
+    {
+      "modrinth": "just-zoom",
+      "nom": "Just Zoom"
+    },
+    {
+      "modrinth": "toggle-sprint",
+      "nom": "Toggle Sprint"
+    },
+    {
+      "modrinth": "freelook-og",
+      "nom": "FreeLook"
+    },
+    {
+      "modrinth": "fullbright-forge",
+      "nom": "Fullbright"
+    },
+    {
+      "modrinth": "xaeros-minimap",
+      "nom": "Xaero's Minimap (waypoints + minimap)"
+    },
+    {
+      "modrinth": "inventoryhudplus",
+      "nom": "InventoryHUD+ (inventaire à l'écran)"
+    }
+  ],
+  "1.21.4-fabric": [
+    {
+      "modrinth": "fabric-api",
+      "nom": "Fabric API"
+    },
+    {
+      "modrinth": "sodium",
+      "nom": "Sodium (performances)"
+    },
+    {
+      "modrinth": "modmenu",
+      "nom": "Mod Menu"
+    },
+    {
+      "modrinth": "zoomify",
+      "nom": "Zoomify"
+    },
+    {
+      "modrinth": "freelook",
+      "nom": "Freelook"
+    },
+    {
+      "modrinth": "polysprint",
+      "nom": "PolySprint (toggle sprint / sneak)"
+    },
+    {
+      "modrinth": "evergreenhud",
+      "nom": "EvergreenHUD (FPS, CPS, keystrokes…)"
+    },
+    {
+      "modrinth": "auto-gg",
+      "nom": "Auto GG"
+    },
+    {
+      "modrinth": "gamma-utils",
+      "nom": "Gamma Utils (fullbright)"
+    },
+    {
+      "modrinth": "xaeros-minimap",
+      "nom": "Xaero's Minimap (waypoints + minimap)"
+    },
+    {
+      "modrinth": "inventoryhudplus",
+      "nom": "InventoryHUD+ (inventaire à l'écran)"
+    },
+    {
+      "modrinth": "auto-clicker",
+      "nom": "Auto Clicker"
+    }
+  ],
+  "1.21.8-forge": [
+    {
+      "modrinth": "just-zoom",
+      "nom": "Just Zoom"
+    },
+    {
+      "modrinth": "toggle-sprint",
+      "nom": "Toggle Sprint"
+    },
+    {
+      "modrinth": "freelook-og",
+      "nom": "FreeLook"
+    },
+    {
+      "modrinth": "fullbright-forge",
+      "nom": "Fullbright"
+    },
+    {
+      "modrinth": "xaeros-minimap",
+      "nom": "Xaero's Minimap (waypoints + minimap)"
+    },
+    {
+      "modrinth": "inventoryhudplus",
+      "nom": "InventoryHUD+ (inventaire à l'écran)"
+    }
+  ],
+  "1.21.8-fabric": [
+    {
+      "modrinth": "fabric-api",
+      "nom": "Fabric API"
+    },
+    {
+      "modrinth": "sodium",
+      "nom": "Sodium (performances)"
+    },
+    {
+      "modrinth": "modmenu",
+      "nom": "Mod Menu"
+    },
+    {
+      "modrinth": "zoomify",
+      "nom": "Zoomify"
+    },
+    {
+      "modrinth": "freelook",
+      "nom": "Freelook"
+    },
+    {
+      "modrinth": "polysprint",
+      "nom": "PolySprint (toggle sprint / sneak)"
+    },
+    {
+      "modrinth": "evergreenhud",
+      "nom": "EvergreenHUD (FPS, CPS, keystrokes…)"
+    },
+    {
+      "modrinth": "auto-gg",
+      "nom": "Auto GG"
+    },
+    {
+      "modrinth": "gamma-utils",
+      "nom": "Gamma Utils (fullbright)"
+    },
+    {
+      "modrinth": "xaeros-minimap",
+      "nom": "Xaero's Minimap (waypoints + minimap)"
+    },
+    {
+      "modrinth": "inventoryhudplus",
+      "nom": "InventoryHUD+ (inventaire à l'écran)"
+    },
+    {
+      "modrinth": "auto-clicker",
+      "nom": "Auto Clicker"
+    }
+  ]
+}
